@@ -3,6 +3,8 @@ This LightBox shader will create some funky ACID patterns
 
 IMPORTANT: This is a volumetric shader. Please add a large sphere to the scene, to be able to see something.
 
+Demo clip: http://vimeo.com/131350537
+
 Based on http://glslsandbox.com/e#25386
 Ligtbox version by ivar@inferno-op.com" Name="CROK Acid" HelpLink="http://logik-matchbook.org/crok_acid">
    <Shader OutputBitDepth="Output" Index="1">
